@@ -1,0 +1,8 @@
+prefix=/home/furuhata/catkin_ws/install
+
+Name: irvs_ros_tutorials
+Description: Description of irvs_ros_tutorials
+Version: 0.0.0
+Cflags: -I/home/furuhata/catkin_ws/install/include
+Libs: -L/home/furuhata/catkin_ws/install/lib -lirvs_ros_tutorials
+Requires: roscpp std_msgs
